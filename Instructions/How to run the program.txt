@@ -16,4 +16,4 @@ Steps
 4. Open Main.java
 5. Run by clicking the button at the top right of the editor or press "Ctrl + F5"
 6. The terminal at the bottom of Vs Code will open automatically and run the program
-7. Prompted and you can start entering some input
+7. The program will display welcome screen and the program will ask process input
