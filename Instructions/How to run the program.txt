@@ -6,14 +6,25 @@ How to run the program
 
 Requirements
 1. Java JDK 11 or higher
-2. Any IDE(Preferably VS Code)
-3. Vs Code Extension- extension pack for java
+2. Visual Studio Code
+3. Visual Studio Code Extension - extension pack for java
 
 Steps
-1. Download or clone the repository
-2. Open Vs Code
-3. Click file -> Open folder and select the project folder (CPU-Scheduling-Algorithms-main)
+1. Download or clone the repository from github
+2. Extract the project folder to your desktop for easy navigation 
+3. Open Vs Code
+4. Click file -> Open folder and open the project folder (CPU-Scheduling-Algorithms-main)
 4. Open Main.java
 5. Run by clicking the button at the top right of the editor or press "Ctrl + F5"
 6. The terminal at the bottom of Vs Code will open automatically and run the program
 7. The program will display welcome screen and the program will ask process input
+
+
+Note: 
+Make sure Java is installed correctly 
+
+To do that:
+Press Win + R 
+Type cmd
+Press Enter
+Type java -version
